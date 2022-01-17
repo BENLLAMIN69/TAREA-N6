@@ -1,4 +1,18 @@
 # TAREA-N6
+
+# OBJETIVOS
+
+Objetivo General
+
+- Explicar conceptos relacionados al tema introducción a la corriente y al voltaje alternos, y capacitores, por medio de un informe académico que incluya material de estudio en mapas mentales y la posteriror resolución de ejercicios propuestos, que permita a los lectores comprender de mejor manera la estructuración de los circuitos eléctricos.
+
+Objetivos Específicos
+- Explicar de manera abstrata una breve introduccion al analisis de circuitos en c.a.
+- Analizar los diversos tipos de capacitores.
+- Resolver ejercicios practico para la aplicacion de los temas propuestos.
+# Marco Teórico
+
+
 EJERCICIOS 
 
 CAPITULO 11
@@ -168,4 +182,11 @@ EJERCICIO 27
 ![image](https://user-images.githubusercontent.com/93900233/149817078-00fe0619-a714-4971-a283-b779f3bc0803.png)
 
 ![image](https://user-images.githubusercontent.com/93900233/149817115-aa12edc4-e484-431b-87ed-c2a09f3e7ff0.png)
+
+# VIDEO
+
+# CONCLUSIONES
+
+# BIBLIOGRAFÍA
+- Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
 
