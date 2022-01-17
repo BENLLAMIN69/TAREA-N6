@@ -29,17 +29,17 @@ EJERCICIO 31
 
 EJERCICIO 33
 
-![image](https://user-images.githubusercontent.com/93900233/149810727-ec83e1c4-eef2-429c-907c-c88076db2c6d.png)
+![image](https://user-images.githubusercontent.com/93900233/149811374-8d59b97d-60b5-49cd-9290-84ce1c799af2.png)
 
-![image](https://user-images.githubusercontent.com/93900233/149810771-067f83ba-f7d1-4eb1-9a5a-e3f141a239c8.png)
+![image](https://user-images.githubusercontent.com/93900233/149811440-e59d9c45-33cd-49be-925d-35997effc6ac.png)
 
-![image](https://user-images.githubusercontent.com/93900233/149810840-44993472-0c37-4c00-b352-c8f182d57fc0.png)
-
-![image](https://user-images.githubusercontent.com/93900233/149810879-6df0be4b-8bd3-45e3-b707-d36222352800.png)
+![image](https://user-images.githubusercontent.com/93900233/149811502-a48752b6-5e1b-4e9a-a020-f017cf938c09.png)
 
 EJERCICIO 35
 
+![image](https://user-images.githubusercontent.com/93900233/149811632-7adc8618-043c-4432-a524-7f1b41388614.png)
 
+![image](https://user-images.githubusercontent.com/93900233/149811675-24869c95-ef61-4ada-88c0-68b7bc11dccb.png)
 
 EJERCICIO 37
 
@@ -51,9 +51,30 @@ EJERCICIO 37
 
 EJERCICIO 39
 
+![image](https://user-images.githubusercontent.com/93900233/149811745-6108c46c-c8ed-4cd3-8ff5-753cb316d2f6.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149811812-6c0d84b3-1da4-46f8-a2ea-14371b507f91.png)
+
 EJERCICIO 41
+
+![image](https://user-images.githubusercontent.com/93900233/149811869-3501b184-0f61-4bdf-aabd-82755e27b76b.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149811895-fb95916b-9a80-4413-8368-1d526d357ee6.png)
 
 EJERCICIO 43
 
+![image](https://user-images.githubusercontent.com/93900233/149811941-bfd91273-7db6-4102-aa5b-dafa8918f431.png)
+
 EJERCICIO 45 
 
+![image](https://user-images.githubusercontent.com/93900233/149812013-0d5f3ae6-ac3d-4ce2-8edc-c78fbaef5ec8.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149812044-e51ac589-68cb-4106-94c3-1483dbe9b31b.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149812075-e1657a44-82d9-4337-9afc-8cfddf872256.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149812166-60e1e3da-e7ad-4223-8e0b-13e2e3e81310.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149812209-3e419f82-58b0-465a-8a34-7806d723d55c.png)
+
+![image](https://user-images.githubusercontent.com/93900233/149812275-2e0a5f90-4102-4454-8228-2c6b97221533.png)
