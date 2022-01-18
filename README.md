@@ -208,6 +208,10 @@ EJERCICIO 27
 
 # CONCLUSIONES
 
+- Se puso un énfasis especial en la forma de onda sinusoidal la onda seno, esto debido a su importancia fundamental en el análisis de circuitos de ca.
+- Revisado el capitulo anteriror se pudo entrelazar con los capacitores, ya que estos se les aplica una señal sinusoidal reaccionando de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada.
+- Se debe tomar en cuenta que el funcionamiento de un capacitor en circuitos de ca y de cd es muy importante ya que onstituye la base para el estudio de circuitos reactivos en función tanto de respuesta a la frecuencia como de respuesta al tiempo.
+
 # BIBLIOGRAFÍA
 - Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.) (8th ed.). Naucalpan de Juárez: Pearson Educación.
 
