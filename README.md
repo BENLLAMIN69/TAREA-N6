@@ -25,6 +25,15 @@ Objetivos Específicos
 ![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(11).png)
 ![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(12).png)
 
+# Capitulo 12
+
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/Introduce%20el%20texto%20aqu%C3%AD.png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(13).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(16).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(17).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(18).png)
+
+
 EJERCICIOS 
 
 CAPITULO 11
