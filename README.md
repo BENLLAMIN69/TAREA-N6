@@ -48,9 +48,11 @@ EJERCICIO 3
 
 EJERCICIO 5
 
+![image](https://user-images.githubusercontent.com/93899422/149956824-27a137b7-382a-4983-b41e-ce2aa973e94b.png)
 
 EJERCICIO 7
 
+![image](https://user-images.githubusercontent.com/93899422/149956881-50acbddb-a848-4312-abab-fc41af85a7ff.png)
 
 EJERCICIO 9
 
@@ -278,8 +280,13 @@ EJERCICIO 39
 
 EJERCICIO 41
 
+![image](https://user-images.githubusercontent.com/93899422/149956981-8ed3714c-bdfd-473a-8494-8a5fa895f235.png)
+![image](https://user-images.githubusercontent.com/93899422/149957138-93a2ed84-a7d1-487f-9722-f667965b4eef.png)
+![image](https://user-images.githubusercontent.com/93899422/149957229-23fbee24-dec1-46e3-9b75-c6f09cf686a6.png)
 
 EJERCICIO 43
+
+![image](https://user-images.githubusercontent.com/93899422/149957264-eed4bf0a-1207-4892-84ad-a82d14cf1ab7.png)
 
 EJERCICIO 45
 
