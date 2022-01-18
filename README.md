@@ -12,6 +12,18 @@ Objetivos Específicos
 - Resolver ejercicios practico para la aplicacion de los temas propuestos.
 # Marco Teórico
 
+# Capitulo 11
+
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(3).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(4).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(5).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(6).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(7).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(8).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(9).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(10).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(11).png)
+![](https://github.com/BENLLAMIN69/TAREA-N6/blob/main/IMA/png%20(12).png)
 
 EJERCICIOS 
 
